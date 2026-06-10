@@ -34,4 +34,4 @@ While building this project, I reinforced my understanding of button input handl
 
 ## Author
 
-Rosemary Bassey Agala
+Rosemary Agala Bassey
